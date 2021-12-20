@@ -9,7 +9,7 @@ Feel free to explore and browse!
 		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=henryxsong&repo=henryxsong-v1&theme=radical" />
 	</a>
 	<a href="https://github.com/henryxsong/jarvis">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=henryxsong&repo=jarvis&theme=radical" />
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=henryxsong&repo=jarvis&theme=radical&lineheight=2" />
 	</a>
 </p>
 
