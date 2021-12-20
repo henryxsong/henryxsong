@@ -3,6 +3,13 @@
 My name is Henry Song. I am an aspiring software engineer located in Seattle, Washington. 
 
 ## 🔭 Currently Working On:
+<a href="https://github.com/henryxsong/henryxsong-v1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=henryxsong&repo=henryxsong-v1&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/henryxsong/jarvis">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=henryxsong&repo=jarvis&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
 ## ⚡ Github Stats
 <a href="https://github.com/henryxsong/henryxsong">
@@ -14,7 +21,7 @@ My name is Henry Song. I am an aspiring software engineer located in Seattle, Wa
 
 
 ## 🧰 Technologies
-<p align=center>
+
   ![](https://img.shields.io/badge/OS-macos-informational?style=flat&logo=macos&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/OS-windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
@@ -28,7 +35,7 @@ My name is Henry Song. I am an aspiring software engineer located in Seattle, Wa
   ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Code-Gatsby-informational?style=flat&logo=gatsby&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Tools-Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=2bbc8a)
-</p>
+
 
 
 
