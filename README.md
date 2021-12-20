@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Henry Song. I am an aspiring software engineer located in Seattle, Washington. 
+
 <!--
 **henryxsong/henryxsong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
