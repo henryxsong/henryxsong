@@ -1,6 +1,7 @@
 ### Hi there 🤙
 
-My name is Henry Song. I am an aspiring software engineer located in Seattle, Washington. 
+Welcome to my GitHub page!
+Feel free to explore and browse!
 
 ## 🔭 Currently Working On:
 <p align="center">
