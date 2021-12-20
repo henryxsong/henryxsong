@@ -6,10 +6,10 @@ Feel free to explore and browse!
 ## 🔭 Currently Working On:
 <p align="center">
 	<a href="https://github.com/henryxsong/henryxsong-v1">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=henryxsong&repo=henryxsong-v1&theme=radical&line_height=5" />
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=henryxsong&repo=henryxsong-v1&theme=radical" />
 	</a>
 	<a href="https://github.com/henryxsong/jarvis">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=henryxsong&repo=jarvis&theme=radical&line_height=5" />
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=henryxsong&repo=jarvis&theme=radical" />
 	</a>
 </p>
 
