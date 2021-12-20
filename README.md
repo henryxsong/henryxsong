@@ -5,20 +5,20 @@ My name is Henry Song. I am an aspiring software engineer located in Seattle, Wa
 ## 🔭 Currently Working On:
 <p align="center">
 	<a href="https://github.com/henryxsong/henryxsong-v1">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=henryxsong&repo=henryxsong-v1&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=henryxsong&repo=henryxsong-v1&theme=radical&line_height=5" />
 	</a>
 	<a href="https://github.com/henryxsong/jarvis">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=henryxsong&repo=jarvis&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=henryxsong&repo=jarvis&theme=radical&line_height=5" />
 	</a>
 </p>
 
 ## ⚡ Github Stats
 <p align="center">
 	<a href="https://github.com/henryxsong/henryxsong">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryxsong&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryxsong&hide=tex&theme=radical&langs_count=3" />
 	</a>
 	<a href="https://github.com/henryxsong/henryxsong">
-		<img align="center" src="https://github-readme-stats.vercel.app/api?username=henryxsong&hide=tex&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Henry's GitHub Stats" />
+		<img align="center" src="https://github-readme-stats.vercel.app/api?username=henryxsong&show_icons=true&line_height=27&count_private=true&theme=radical" alt="Henry's GitHub Stats" />
 	</a>
 </p>
 
@@ -41,7 +41,11 @@ My name is Henry Song. I am an aspiring software engineer located in Seattle, Wa
 
 
 ## 📫 How to reach me:
-
+<p align="center">
+	<a href="mailto:me@henryxsong.com">
+		me@henryxsong.com
+	</a>
+</p>
 
 <!--
 **henryxsong/henryxsong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
