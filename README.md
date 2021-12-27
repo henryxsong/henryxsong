@@ -1,4 +1,4 @@
-### Hi there 🤙
+# Hi there 🤙
 
 Welcome to my GitHub page!
 Feel free to explore and browse!
