@@ -30,7 +30,7 @@ Feel free to explore and browse!
   ![](https://img.shields.io/badge/OS-windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-  ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&logoColor=white&color=2bbc8a)
+  ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Code-MatLab-informational?style=flat&logo=matlab&logoColor=white&color=2bbc8a)
